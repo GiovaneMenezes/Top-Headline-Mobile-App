@@ -53,6 +53,7 @@ class HomeViewModel {
                 switch response {
                 case .success(let element):
                     self.isLoading.value = false
+                    self.isErrored.value = nil
                     self.model.totalResults = element.totalResults ?? 0
                     if let articles = element.articles {
                         self.model.articles.append(contentsOf: articles)
