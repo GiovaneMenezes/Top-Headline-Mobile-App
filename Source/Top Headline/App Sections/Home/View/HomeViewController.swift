@@ -19,11 +19,28 @@ class HomeViewController: UIViewController {
         registerCells()
         setupObservables()
         viewModel.fetchArcticle()
+        collectionView.alpha = 0
     }
     
     func setupObservables() {
         viewModel.newsCellModels.didChange = { [weak self] _ in
             self?.collectionView.reloadData()
+        }
+        viewModel.isLoading.didChange = { [weak self] state in
+            DispatchQueue.main.async {
+                self?.changeLoadingState(state)
+            }
+        }
+        viewModel.isErrored.didChange = { value in
+            if let value = value {
+                print(value)
+            }
+        }
+    }
+    
+    func changeLoadingState(_ isLoading: Bool) {
+        UIView.animate(withDuration: 0.3) {
+            self.collectionView.alpha = isLoading ? 0 : 1
         }
     }
     
@@ -50,6 +67,13 @@ extension HomeViewController: UICollectionViewDelegateFlowLayout {
 }
 
 extension HomeViewController: UICollectionViewDataSource {
+    
+    func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
+        if indexPath.section == 0 {
+            viewModel.onArticleDidSelected(index: indexPath.row)
+        }
+    }
+    
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
         if section == 0 {
             return viewModel.newsCellModels.value.count

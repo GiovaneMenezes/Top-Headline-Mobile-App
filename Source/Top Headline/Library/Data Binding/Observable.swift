@@ -25,4 +25,8 @@ class Observable<T> {
             didChange?(_value)
         }
     }
+    
+    deinit {
+        didChange = nil
+    }
 }

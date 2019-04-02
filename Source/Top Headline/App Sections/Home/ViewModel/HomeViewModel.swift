@@ -40,7 +40,13 @@ class HomeViewModel {
         return NewsCollectionViewCell.Model(title: article.title ?? " ",
                                             author: article.author ?? " ",
                                             urlToImage: article.urlToImage ?? " ",
-                                            publishedAt: article.publishedAt ?? " ")
+                                            publishedAt: formatDateString(article.publishedAt ?? " "))
+    }
+    
+    func formatDateString(_ publishedAt: String?) -> String? {
+        guard let publishedAt = publishedAt else { return nil }
+        let publishedAtSpilitted = publishedAt.split(separator: "T")
+        return String(publishedAtSpilitted[0])
     }
     
     func fetchArcticle() {
@@ -68,6 +74,6 @@ class HomeViewModel {
     }
     
     func onArticleDidSelected(index: Int) {
-        delegate?.didSelectedArticle(path: model.articles[index].url ?? "")
+        delegate?.didSelectedArticle(title: model.articles[index].title ?? "", path: model.articles[index].url ?? "")
     }
 }

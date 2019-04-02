@@ -32,6 +32,10 @@ class HomeViewModelTest: XCTestCase {
         XCTAssertTrue(sut.nextPageAvailable, "should return true")
     }
     
+    func testDateFormater() {
+        XCTAssertEqual(sut.formatDateString("2019-10-03T12:00Z"), "2019-10-03", "should return only date part")
+    }
+    
     func testIfResquestParametersAreCorrect() {
         sut.model = HomeModelGenerator.fixedModel
         let requestParameters = sut.fetchParameters
@@ -82,18 +86,6 @@ class HomeViewModelTest: XCTestCase {
         sut.model = HomeModelGenerator.fixedModel
         sut.isErrored.didChange = { value in
             XCTAssertNil(value, "shouldn't have a error message")
-            validation.fulfill()
-        }
-        sut.fetchArcticle()
-        waitForExpectations(timeout: 10)
-    }
-    
-    func testDecodingResponse() {
-        stubRequests(with: .successResponse)
-        let validation = expectation(description: "SuccessResponseReceived")
-        sut.model = HomeModelGenerator.fixedModel
-        sut.newsCellModels.didChange { response in
-            XCTAssertEqual(sut.newsCellModels.value.count, 10, "It's a full page, should present 10 articles")
             validation.fulfill()
         }
         sut.fetchArcticle()

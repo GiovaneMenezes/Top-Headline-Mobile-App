@@ -9,5 +9,5 @@
 import Foundation
 
 protocol HomeViewModelDelegate: class {
-    func didSelectedArticle(path: String)
+    func didSelectedArticle(title: String, path: String)
 }
