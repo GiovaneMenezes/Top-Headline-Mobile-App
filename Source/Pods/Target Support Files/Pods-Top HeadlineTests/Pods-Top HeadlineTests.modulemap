@@ -1,0 +1,6 @@
+framework module Pods_Top_HeadlineTests {
+  umbrella header "Pods-Top HeadlineTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

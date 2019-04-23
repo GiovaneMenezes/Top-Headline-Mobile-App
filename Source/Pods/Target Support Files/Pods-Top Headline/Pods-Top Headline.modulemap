@@ -1,0 +1,6 @@
+framework module Pods_Top_Headline {
+  umbrella header "Pods-Top Headline-umbrella.h"
+
+  export *
+  module * { export * }
+}

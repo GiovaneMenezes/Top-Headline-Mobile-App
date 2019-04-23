@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Danielle Wiener-Bronner, CNN Business",
+            "title": "Jeff Bezos investigator: Saudi Arabia obtained private information - CNN",
+            "description": "An investigator working for Jeff Bezos to find out how evidence of his extramarital relationship with Lauren Sanchez was provided to the National Enquirer now claims that Saudi Arabia had access to information before the photos and texts were leaked.",
+            "url": "https://www.cnn.com/2019/03/31/media/jeff-bezos-gavin-de-becker-saudi-arabia-leak/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190331122113-bezos-gavin-de-becker-saudi-arabia-leak-super-tease.jpg",
+            "publishedAt": "2019-03-31T22:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnet.com"
+            },
+            "author": "Jessica Dolcourt",
+            "title": "5 Galaxy S10 features you're going to love most - CNET",
+            "description": "Samsung's Galaxy S10 phones are tested and the verdicts are in. Here's what they do best.",
+            "url": "https://www.cnet.com/news/5-galaxy-s10-features-youre-going-to-love-most-samsung/",
+            "urlToImage": "https://cnet2.cbsistatic.com/img/qSABEZxFh0KPkEgXBrbS8oykGpE=/724x407/2019/03/12/e8b89a52-a2ee-4207-a277-05efe1816104/galaxy-s10-plus-9.jpg",
+            "publishedAt": "2019-03-31T22:00:01Z",
+            "content": "The Galaxy S10, S10E and S10 Plus are three of a kind in the best possible way. They're all fast, powerful phones with great cameras and long battery life. They're water resistant, have jacks for your wired headphones and can charge wirelessly. There's a lot … [+4507 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Freep.com"
+            },
+            "author": "Dana Sulonen",
+            "title": "Michigan State's Matt McQuaid dunked on Duke and fans lost their minds - Detroit Free Press",
+            "description": "Michigan State's Matt McQuaid had a highlight-reel dunk against Duke and fans on Twitter were loving every second of it.",
+            "url": "https://www.freep.com/story/sports/college/michigan-state/2019/03/31/michigan-state-matt-mcquaid-dunk-duke/3327089002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2019/03/31/PDTF/695b1093-7fb5-4403-ada8-f22d1ac7ec20-UST_20190331_pjc__031.jpg?crop=2686,1511,x0,y582&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2019-03-31T21:54:00Z",
+            "content": "Last Slide Next Slide With Duke's Zion Williamson playing against Michigan State basketball in the Elite Eight on Sunday, many might have predicted that he would provide the highlight-reel dunk that would show up on SportsCenter. Enter Matt McQuaid. The MSU s… [+1456 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Pope defends decision to keep French cardinal after cover-up - Fox News",
+            "description": "Pope Francis has defended his decision to reject French Cardinal Philippe Barbarin's resignation after he was convicted of covering up for a predator priest, saying the appeals process must run its course before a final decision is made.",
+            "url": "https://www.foxnews.com/world/pope-defends-decision-to-keep-french-cardinal-after-cover-up",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/03/ContentBroker_contentid-09a990bc48024f05bfa5acc43765af33.png",
+            "publishedAt": "2019-03-31T21:07:20Z",
+            "content": "ABOARD THE PAPAL PLANE Pope Francis has defended his decision to reject French Cardinal Philippe Barbarin's resignation after he was convicted of covering up for a predator priest, saying the appeals process must run its course before a final decision is made… [+581 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Turkey's main opposition candidate says 'very clear' he won Istanbul - Reuters",
+            "description": "Turkey's main opposition candidate for mayoral elections in Istanbul said it was \"very clear\" that his party had won the vote in Istanbul, the country's biggest city.",
+            "url": "https://www.reuters.com/article/us-turkey-election-chp/turkeys-main-opposition-candidate-says-very-clear-he-won-istanbul-idUSKCN1RC0UX",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20190331&t=2&i=1372148008&w=1200&r=LYNXNPEF2U0XB",
+            "publishedAt": "2019-03-31T21:06:00Z",
+            "content": "ANKARA (Reuters) - Turkey’s main opposition candidate for mayoral elections in Istanbul said it was “very clear” that his party had won the vote in Istanbul, the country’s biggest city. “I know we won in Istanbul, it is very clear,” Republican People’s party … [+102 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cbssports.com"
+            },
+            "author": null,
+            "title": "Kentucky vs. Auburn score: Tigers shock Wildcats in OT to earn first trip to Final Four in school history - CBS Sports",
+            "description": "With big man Chuma Okeke sidelined, Auburn upset the Wildcats in the Elite Eight",
+            "url": "https://www.cbssports.com/college-basketball/news/kentucky-vs-auburn-score-tigers-shock-wildcats-in-ot-to-earn-first-trip-to-final-four-in-school-history/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2019/03/31/be5acb4b-d205-4225-ba9a-9ff226e8e4d8/thumbnail/770x433/e2d8aca1066a4935a1b8a030ff43b3ce/auburn.jpg",
+            "publishedAt": "2019-03-31T21:01:00Z",
+            "content": "KANSAS CITY, Mo. -- Another game, another thrilling finish in the Elite Eight. After two Saturday night gems that saw Virginia and Texas Tech advance to the Final Four in close shaves, Sunday afternoon picked up right where the late night festivities ended on… [+1098 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gafollowers.com"
+            },
+            "author": "Jeremy Jones",
+            "title": "Atlanta Man Killed After Knocking on the Wrong Door - gafollowers.com",
+            "description": "Atlanta — A man fatally shot a teenager who accidentally knocked on the wrong apartment door in Atlanta, WSB-TV reported. It happened about 12:30 a.m. Friday at The Retreat apartment complex in southwest Atlanta, according to the station. Omarian Banks, 19, w…",
+            "url": "https://www.gafollowers.com/atlanta-man-killed-after-knocking-on-the-wrong-door/",
+            "urlToImage": "https://www.gafollowers.com/wp-content/uploads/2019/03/11667834-0-image-a-30_1553983363870.jpg",
+            "publishedAt": "2019-03-31T20:48:36Z",
+            "content": "Atlanta A man fatally shot a teenager who accidentally knocked on the wrong apartment door in Atlanta, WSB-TV reported. It happened about 12:30 a.m. Friday at The Retreat apartment complex in southwest Atlanta, according to the station. Omarian Banks, 19, was… [+1455 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "William Cummings",
+            "title": "Kellyanne Conway bristles at 'really inappropriate question' about husband on Fox News - USA TODAY",
+            "description": "\"What are you, Oprah now?\" Conway said to \"Fox News Sunday\" host Chris Wallace. \"I think it's a really inappropriate question.\"",
+            "url": "https://www.usatoday.com/story/news/politics/onpolitics/2019/03/31/kellyanne-conway-slams-fox-news-chris-wallace-asking-family/3326142002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2019/03/31/USAT/9f07de57-832c-4444-8bd3-943882fab72b-AP_Trump_5.JPG?crop=4622,2600,x0,y220&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2019-03-31T20:23:00Z",
+            "content": "President Donald Trump escalated his public feud with the husband of top aide Kellyanne Conway Wednesday, calling George Conway \"a whack job.\" AP, AP White House adviser Kellyanne Conway clearly is tired of having to answer questions about her husband George … [+3413 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Accuweather.com"
+            },
+            "author": null,
+            "title": "Entire sky lights up as fireball flashes over Florida Saturday night - AccuWeather.com",
+            "description": null,
+            "url": "https://www.accuweather.com/en/weather-news/entire-sky-lights-up-as-fireball-flashes-over-florida-saturday-night/70007851",
+            "urlToImage": null,
+            "publishedAt": "2019-03-31T19:38:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liptak",
+            "title": "Google Maps adds Snakes game in app for April Fools’ Day - The Verge",
+            "description": "Google has added a version of the classic game Snakes into its Google Maps app for April Fools’ Day this year, as well as a standalone website.",
+            "url": "https://www.theverge.com/2019/3/31/18289518/google-maps-app-snakes-game-april-fools-day",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/1N_f6rIxDYQnjQukiFQvlqWbLn8=/110x0:1099x518/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/15998715/D3AWgKjWoAYOM4Y.png",
+            "publishedAt": "2019-03-31T19:24:51Z",
+            "content": "Google is temporarily adding a version of the classic game Snakes into its Google Maps app for April Fools Day this year. The company says that the game is rolling out now to iOS and Android users globally today, and that itll remain on the app for the rest o… [+349 chars]"
+        },
+        {
+            "source": {
+                "id": "the-new-york-times",
+                "name": "The New York Times"
+            },
+            "author": null,
+            "title": "‘Dumbo’ Falls Short of Box-Office Expectations but Still Comes in First - The New York Times",
+            "description": "Tim Burton’s moody Disney remake sold $45 million in tickets in its first weekend. And Jordan Peele’s “Us” has crossed well over the $100 million mark.",
+            "url": "https://www.nytimes.com/2019/03/31/movies/dumbo-box-office-us.html",
+            "urlToImage": "https://static01.nyt.com/images/2019/03/31/arts/31boxoffice-item/merlin_152482068_a6ae7443-f57a-4c35-b4f0-c296cea46a4a-facebookJumbo.jpg",
+            "publishedAt": "2019-03-31T19:12:32Z",
+            "content": "Dumbo was no runt but it was no mammoth hit, either. Nearly eight decades after the 1941 original, Disneys live-action Dumbo arrived in theaters this weekend to $45 million in ticket sales, topping the domestic box office. But that figure fell slightly below … [+1790 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Allan Smith",
+            "title": "Trump's threat to close border 'certainly isn't a bluff,' Conway says - NBC News",
+            "description": "White House counselor Kellyanne Conway and acting chief of staff Mick Mulvaney both said Sunday that President Donald Trump is serious about his threat to close the border with Mexico.",
+            "url": "https://www.nbcnews.com/politics/donald-trump/trump-s-threat-close-border-certainly-isn-t-bluff-conway-n989341",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2019_13/2798216/190325-kellyanne-conway-mn-1240_82f7132f06ca1bd66806a7bc6b9adfd3.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2019-03-31T19:11:00Z",
+            "content": "Breaking News Emails Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. SUBSCRIBE March 31, 2019, 7:11 PM GMT Top White House officials warned Sunday that President Donald Trump's threat to close the U.… [+1576 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nj.com"
+            },
+            "author": "Amy Kuperinsky | NJ Advance Media for NJ.com",
+            "title": "Chris Rock makes Jussie Smollett joke at NAACP Image Awards, ignoring restriction on Jussie Smollett jokes - NJ.com",
+            "description": "Rock poked fun at the ban on such jokes while making one at Saturday's ceremony.",
+            "url": "https://www.nj.com/entertainment/2019/03/chris-rock-makes-jussie-smollett-joke-at-naacp-image-awards-ignoring-restriction-on-jussie-smollett-jokes.html",
+            "urlToImage": "https://www.nj.com/resizer/BIo-dc_ClIsILmjnI4clATD29kg=/1200x0/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/NNYY4YQNZZDPJLPH34LHPQO6WA.jpg",
+            "publishedAt": "2019-03-31T19:01:00Z",
+            "content": "Apparently, telling Chris Rock that he cant make a Jussie Smollett joke only sets you up for a Jussie Smollett joke. Rock, 54, who has a home in Alpine, appeared at the NAACP Image Awards on Saturday, where producers were, according to Rock, not keen on anyon… [+2970 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Npr.org"
+            },
+            "author": "Daniel Estrin",
+            "title": "4 Palestinians Killed Along Gaza Border In 'Great March of Return' Protest - NPR",
+            "description": "Despite these deaths, the day was calmer than expected, as Israel and Palestine work to negotiate a deal. \"This was not something extraordinary,\" retired Israeli Brig. Gen. Yossi Kuperwasser told NPR.",
+            "url": "https://www.npr.org/2019/03/31/708551097/4-palestinians-killed-along-gaza-border-in-great-march-of-return-protest",
+            "urlToImage": "https://media.npr.org/assets/img/2019/03/31/ap_190895857003801_wide-9a0a2e0fdf4ee31d84b4393e46ccf32ae8498675.jpg?s=1400",
+            "publishedAt": "2019-03-31T18:30:00Z",
+            "content": "Protesters run to cover from teargas fired by Israeli troops near fence of Gaza Strip border with Israel on Saturday. The day marked the first anniversary of the Gaza border protests. Adel Hana/AP Tens of thousands of Palestinian protesters gathered at the Ga… [+2372 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "AT&T is the first 5G carrier in the US to reach gigabit speeds - Engadget",
+            "description": "AT&T says it's the first to top 1Gbps on a 5G network in the US, although there are conditions attached to that feat.",
+            "url": "https://www.engadget.com/2019/03/31/att-5g-hits-gigabit-speed/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4000%252C2667%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-03%252F240a63a0-533a-11e9-b9b9-e23f0bb1f661%26client%3Da1acac3e1b3290917d92%26signature%3D9281cb704ff8e2f3bd226c2660af47c2daa1a07c&client=amp-blogside-v2&signature=101f670e56ea645a331f393f3fafbd2650090d17",
+            "publishedAt": "2019-03-31T18:25:36Z",
+            "content": "On launch, AT&amp;T's 5G service could only make use of a lone 100MHz carrier for your connection, limiting speeds that were frequently not much better (or potentially worse ) than LTE. The new approach aggregated four of those carriers, giving it that much m… [+769 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Devan Cole, CNN",
+            "title": "Mick Mulvaney on Trump campaign's contacts with Russians: 'The issue is not whether it's ethical' - CNN",
+            "description": "Acting White House chief of staff Mick Mulvaney said Sunday that when it comes to the contacts members of President Donald Trump's campaign team had with Russians during the 2016 election, \"the issue is not whether it's ethical.\"",
+            "url": "https://www.cnn.com/2019/03/31/politics/mick-mulvaney-ethics-mueller-cnntv/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181214173003-mick-mulvaney-0213-super-tease.jpg",
+            "publishedAt": "2019-03-31T18:16:00Z",
+            "content": "Washington (CNN) Acting White House chief of staff Mick Mulvaney said Sunday that when it comes to the contacts members of President Donald Trump's campaign team had with Russians during the 2016 election, \"the issue is not whether it's ethical.\" Mulvaney's c… [+1924 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Japantimes.co.jp"
+            },
+            "author": "No Author",
+            "title": "North Dakota fossil 'mother lode' records Earth-shaking asteroid's impact: study - The Japan Times",
+            "description": "Scientists in the U.S. say they have discovered the fossilized remains of a mass of creatures that died minutes after a huge asteroid slammed into the Eart",
+            "url": "https://www.japantimes.co.jp/news/2019/04/01/world/science-health-world/north-dakota-fossil-mother-lode-records-earth-shaking-asteroids-impact-study/",
+            "urlToImage": "https://cdn.japantimes.2xx.jp/wp-content/uploads/2019/04/f-tanis-a-20190402-870x545.jpg",
+            "publishedAt": "2019-03-31T18:04:00Z",
+            "content": "WASHINGTON - Scientists in the U.S. say they have discovered the fossilized remains of a mass of creatures that died minutes after a huge asteroid slammed into the Earth 66 million years ago, sealing the fate of the dinosaurs. In a paper to be published Monda… [+2144 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Sam Machkovech",
+            "title": "The Analogue Mega Sg answers why anyone would pay $190 for a new Sega Genesis - Ars Technica",
+            "description": "Review: Prepare to find serious Sega authenticity by default and geeky tweaks for weeks.",
+            "url": "https://arstechnica.com/gaming/2019/03/the-analogue-mega-sg-answers-why-anyone-would-pay-190-for-a-new-sega-genesis/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/IMG_1174-760x380.jpg",
+            "publishedAt": "2019-03-31T18:00:00Z",
+            "content": "Enlarge / The Analogue Mega Sg comes with none of these attached things. But if you can bring your own games and controllers to its blast processing party, you're in for a very, very good time. 0 with 0 posters participating To start any conversation about th… [+6972 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bbc.com"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine election: Comedian leads presidential contest - exit poll - BBC News",
+            "description": "Volodymyr Zelenskiy played the president on TV - now exit polls have him winning the first round.",
+            "url": "https://www.bbc.com/news/world-europe-47767440",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0753r5t.jpg",
+            "publishedAt": "2019-03-31T17:47:46Z",
+            "content": "Media caption Mr Zelenskiy spoke to the BBC after the exit polls were announced A comedian with no political experience has won the most votes in the first round of Ukraine's presidential elections, according to exit polls. They say Volodymyr Zelenskiy - who … [+7734 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cleantechnica.com"
+            },
+            "author": "https://www.facebook.com/mr.kyle.field",
+            "title": "A Look Inside Tesla's Fremont Automotive Factory — #CleanTechnica Exclusive - CleanTechnica",
+            "description": "Tesla recently invited CleanTechnica to its automotive factory in Fremont, California, for an exclusive tour that took us behind the scenes in one of the largest manufacturing facilities in the world. This is the factory that serves as the beating heart of Te…",
+            "url": "https://cleantechnica.com/2019/03/31/a-look-inside-teslas-fremont-automotive-factory-cleantechnica-exclusive/",
+            "urlToImage": "https://cleantechnica.com/files/2019/03/tesla-fremont-factory-wide-store-superchargers-768x249.jpg",
+            "publishedAt": "2019-03-31T17:45:42Z",
+            "content": "March 31st, 2019 by Kyle Field Tesla recently invited CleanTechnica to its automotive factory in Fremont, California, for an exclusive tour that took us behind the scenes in one of the largest manufacturing facilities in the world. This is the factory that se… [+15725 chars]"
+        }
+    ]
+}
